@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm khalil El mouedene</h1>
-<h3 align="center">A passionate web developer from Morocco</h3>
+<h3 align="center">A passionate web developer based in Morocco</h3>
 - 💬 Ask me about **angular, rxjs, .Net, C#**
 
 - 📫 How to reach me **khalil.Elmouedene@outlook.fr**
